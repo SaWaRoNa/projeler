@@ -1,0 +1,13 @@
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\dbKisiler.mdf
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\dbKisiler_log.ldf
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\KisilerDbErisim.dll.config
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\KisilerDbErisim.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\KisilerDbErisim.pdb
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.csprojResolveAssemblyReference.cache
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.csproj.CoreCompileInputs.cache
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.dll
+c:\users\sawarona\documents\visual studio 2017\Projects\KisilerWebApi\KisilerDbErisim\obj\Debug\KisilerDbErisim.pdb
